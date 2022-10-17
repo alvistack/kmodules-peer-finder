@@ -1,0 +1,6 @@
+peer-finder: copyright-without-copyright-notice
+peer-finder: initial-upload-closes-no-bugs
+peer-finder: no-manual-page
+peer-finder: shared-library-lacks-prerequisites
+peer-finder: statically-linked-binary
+peer-finder: zero-byte-file-in-doc-directory
