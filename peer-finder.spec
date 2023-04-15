@@ -1,4 +1,4 @@
-# Copyright 2022 Wong Hoi Sing Edison <hswong3i@pantarei-design.com>
+# Copyright 2023 Wong Hoi Sing Edison <hswong3i@pantarei-design.com>
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
 
 Name: peer-finder
 Epoch: 100
-Version: 1.1.0+20220604cc432502
+Version: 1.1.0+20230604cc432502
 Release: 1%{?dist}
 Summary: Peer finder daemon for StatefulSet
 License: Apache-2.0
